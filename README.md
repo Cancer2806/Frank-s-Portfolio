@@ -2,9 +2,9 @@
 Portfolio of my Work so Far.
 
 ## Description
-The webpage sets out a portfolio of work for use by employers' in assessing the suitability of the owner to be engaged in employment or for work on specific projects.
+This webpage sets out a portfolio of work for use by employers' in assessing the suitability of the Owner to be engaged in employment or for work on specific projects.
 
-It provides some basic information about the candidate, links and screenshots of projects that the candidate has either worked on or completed, along with contact information for the candidate, including links to Github and LinkedIn.  A section at the bottom has been provided to allow the employment history of the candidate to be added at a later stage.
+It provides some basic information about the candidate, links and screenshots of projects that the candidate has either worked on or completed, along with contact information such as links to Github and LinkedIn.  A section at the bottom has been provided to allow the employment history of the candidate to be added at a later stage.
  
 The flagship project is presented in a larger format than the other projects.  It is designed so that projects can be updated or additional projects added at any time within the HTML, without needing to revise the CSS.
 
@@ -16,7 +16,9 @@ The flagship project is presented in a larger format than the other projects.  I
 
 
 ## Usage
-The webpage is located at this address:  https://cancer2806.github.io/Portfolio/ 
+The webpage is located at this address:  https://github.com/Cancer2806/Frank-s-Portfolio
+
+The page is deployed at: https://cancer2806.github.io/Frank-s-Portfolio/
 
 
 ![Application Screenshot](./assets/images/PortfolioScreenshot.png)
@@ -27,7 +29,7 @@ Images are contained with-in a local directory:  ./assets/images/
 
 
 ## Credits
-Repository for the submission of Week 8's Homework in UWA's Bootcamp series
+Repository for the submission of Week 16's Homework in UWA's Bootcamp series
 
 
 ## License
